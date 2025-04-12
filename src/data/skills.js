@@ -11,10 +11,7 @@ const SkillsData = [
     name: "JavaScript",
     image: require("../assets/Images/javascript.png"),
   },
-  {
-    name: "TypeScript",
-    image: require("../assets/Images/typescript.png"),
-  },
+
   {
     name: "MongoDB",
     image: require("../assets/Images/mongodb.png"),
