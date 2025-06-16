@@ -1,7 +1,7 @@
 const AboutData = {
   image: require("../assets/Images/maria.png"),
   description: [
-    "An Informatics student at Del Institute of Technology (6th semester) with a strong interest in Software Quality Assurance Testing and web development. Enthusiastic about technological innovation and skilled in ensuring software quality through meticulous testing processes. Highly detail-oriented, problem-solving, leadership, continuous learning, and effective communication. Highly curious and eager to  contribute to the development of information technology. Dedicated to building a diverse skillset and making meaningful contributions within and beyond academics.",
+    "A Informatics student at Del Institute of Technology with a strong passion for Web Development and Software Engineering. Highly curious and enthusiastic about technological innovation, meticulous in software testing, and committed to continuous learning. Committed to continuous learning and contributing to building reliable and sustainable technology. Responsible, adaptable, and eager to collaborate in a team environment. ",
 
     "I'm excited to take on new challenges and contribute to innovative projects. Feel free to connect with me through my social media link",
   ],
