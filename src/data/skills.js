@@ -1,56 +1,48 @@
 const SkillsData = [
   {
-    name: "HTML",
-    image: require("../assets/Images/html.png"),
-  },
-  {
-    name: "CSS",
-    image: require("../assets/Images/css.png"),
-  },
-  {
-    name: "JavaScript",
-    image: require("../assets/Images/javascript.png"),
-  },
-
-  {
-    name: "MongoDB",
-    image: require("../assets/Images/mongodb.png"),
-  },
-  {
-    name: "React",
-    image: require("../assets/Images/react.png"),
-  },
-  {
-    name: "Node",
-    image: require("../assets/Images/node.png"),
-  },
-  {
-    name: "Redux",
-    image: require("../assets/Images/redux.png"),
-  },
-  {
-    name: "Tailwind",
-    image: require("../assets/Images/tailwind.png"),
-  },
-  {
-    name: "MySQL",
-    image: require("../assets/Images/mysql.png"),
+    name: "Katalon",
+    image: require("../assets/Images/katalonn.png"),
   },
   {
     name: "Postman",
     image: require("../assets/Images/postman.png"),
   },
   {
-    name: "VS Code",
-    image: require("../assets/Images/vscode.png"),
-  },
-  {
-    name: "Git",
-    image: require("../assets/Images/git.png"),
+    name: "Selenium",
+    image: require("../assets/Images/se.png"),
   },
   {
     name: "GitHub",
     image: require("../assets/Images/github.png"),
+  },
+  {
+    name: "Jira",
+    image: require("../assets/Images/jira.png"),
+  },
+  {
+    name: "Coda",
+    image: require("../assets/Images/coda.png"),
+  },
+  {
+    name: "VS Code",
+    image: require("../assets/Images/vscode.png"),
+  },
+  {
+    name: "Spreadsheet",
+    image: require("../assets/Images/sh.png"),
+  },
+  {
+    name: "M. Excel",
+    image: require("../assets/Images/excel.png"),
+  },
+  {
+    name: "M. Word",
+    image: require("../assets/Images/word.png"),
+  },
+
+  {
+    name: "Database",
+    image: require("../assets/Images/db.png"),
   },
 ];
 

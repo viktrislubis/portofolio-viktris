@@ -2,11 +2,22 @@ const ExperienceData = [
   {
     title: "Student Oriented Program ",
     company: "Institut Teknologi Del ",
-    duration: "Aug 2023",
+    duration: "May 2023 - Aug 2023",
     description: [
-      "Lead around 450+ new students to recognize a disciplined and integrity boarding life by teaching table manners, time management, and ethics code.",
-      "Demonstrated problem-solving skills by addressing challenges during events and ensuring a positive experience for participants. ",
-      "Managed a team to ensure smooth event execution, fostering teamwork and effective communication. ",
+      "Supported the preparation and distribution of meals and refreshments for 400+ first-year students.",
+      "Coordinated with the team to ensure timely and orderly food distribution throughout the program. ",
+      "Assisted in resolving logistical issues related to consumption needs during the event. ",
+    ],
+  },
+  {
+    title:
+      "Teaching Laboratory Assistant of Fundamental Physics IB & Physics II ",
+    company: "Institut Teknologi Del ",
+    duration: "Aug 2023 - May 2024",
+    description: [
+      "Assisted first-year students in understanding fundamental physics concepts during laboratory sessions.",
+      "Supervised and assisted 70+ students across two semesters.",
+      "Evaluated students’ practical work and reports and provided feedback to the laboratory coordinator.",
     ],
   },
   {
@@ -14,29 +25,28 @@ const ExperienceData = [
     company: "Institut Teknologi Del ",
     duration: "Aug 2023 - May 2024",
     description: [
-      "Providing one-on-one guidance to first-year students, offering academic support, personal advice and career guidance to help them navigate their educational journey. .",
-      "Served as a positive role model, demonstrating the values and behaviors that contribute to personal and academic success. ",
-      "Maintained open and effective communication with mentees (adik asuh) , to ensure the smooth operation of the program and address any issues or concerns. ",
+      "Provided one-on-one guidance to first-year students, offering academic support and personal advice.",
+      "Maintained effective communication with mentees to address concerns and support their academic and personal development. ",
+      "Served as a positive role model by demonstrating responsible and supportive behavior. ",
     ],
   },
   {
-    title: "Teaching Laboratorary of Fundamental Physics IB & Physics II ",
+    title:
+      "HIMASTI (Informatics Student Association) - Vice Head of Education Division",
     company: "Institut Teknologi Del ",
-    duration: "Aug 2023 - May 2024",
+    duration: "Oct 2023 - May 2024",
     description: [
-      "Help first year students understand physics concepts in Physics Laboratory Sessions",
-      "Supervised and assisted 70+ students for two semesters",
-      "Evaluated students’ practicum work and report to laboratory coordinator.",
+      "Supported the delivery of educational programs and learning resources for Informatics students.",
+      "Coordinated a team in organizing training sessions, mentoring programs, and knowledge-sharing activities. ",
     ],
   },
   {
     title: "Teaching Assistant of Computer Architecture and Organization ",
     company: "Institut Teknologi Del",
-    duration: "Aug 2024 - Present",
+    duration: "Aug 2024 - May 2025",
     description: [
-      "Assisted students in understanding fundamental concepts of computer architecture, including processor design, memory hierarchy, and instruction set architecture. ",
-      "Evaluated assignments, provided constructive feedback, and facilitated discussions to enhance students problem-solving skills.",
-      "Tools : CPU Simulator, Visual Studio Code, MARS Simulator ",
+      "Assisted students in understanding fundamental computer architecture concepts, including processor design, memory hierarchy, and instruction set architecture. ",
+      "Evaluated assignments and provided constructive feedback to support students’ problem-solving skills.",
     ],
   },
 ];

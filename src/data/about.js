@@ -1,9 +1,9 @@
 const AboutData = {
   image: require("../assets/Images/maria.png"),
   description: [
-    "A Informatics student at Del Institute of Technology with a strong passion for Web Development and Software Engineering. Highly curious and enthusiastic about technological innovation, meticulous in software testing, and committed to continuous learning. Committed to continuous learning and contributing to building reliable and sustainable technology. Responsible, adaptable, and eager to collaborate in a team environment. ",
+    "An Informatics graduate from Del Institute of Technology with a strong interest in Web Development, Software Engineering, and Quality Assurance. I am passionate about technology, detail-oriented in software testing, and always eager to learn and explore new technologies. With experience in software testing and application development, I enjoy solving problems, collaborating with others, and contributing to building reliable and user-focused digital solutions. ",
 
-    "I'm excited to take on new challenges and contribute to innovative projects. Feel free to connect with me through my social media link",
+    "I’m always excited to take on new challenges, learn from new experiences, and contribute to meaningful projects. Feel free to connect with me through my social media links!",
   ],
 };
 export default AboutData;
