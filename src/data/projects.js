@@ -1,13 +1,3 @@
-import {
-  BiLogoCss3,
-  BiLogoFirebase,
-  BiLogoReact,
-  BiLogoTailwindCss,
-} from "react-icons/bi";
-import { TbApi, TbDatabase } from "react-icons/tb";
-import { SiThemoviedatabase } from "react-icons/si";
-import { FaLaravel, FaPhp } from "react-icons/fa";
-
 const ProjectsData = [
   {
     id: 1,
