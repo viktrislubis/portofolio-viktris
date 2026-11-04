@@ -5,7 +5,7 @@ const ProfileData = {
   professions: ["Software Quality Assurance", "Software Tester"],
   info: ["Fresh graduate in Informatics from Institut Teknologi Del"],
   resume:
-    "https://drive.google.com/file/d/1UaPlLaJiZ0fwNiNeHY89tUMbfRaIbRs2/view?usp=sharing",
+    "https://drive.google.com/file/d/1GgaItNqayoCQtfSqxtugzr5c7qfwV8e2/view?usp=sharing",
 };
 
 export default ProfileData;
