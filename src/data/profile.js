@@ -1,5 +1,5 @@
 const ProfileData = {
-  img: require("../assets/Images/Viktris.jpg"),
+  img: require("../assets/Images/viktris2.jpeg"),
   logo: require("../assets/Images/Nama.png"),
   name: "Viktris Maria Kristriani Lubis",
   professions: ["Software Quality Assurance", "Software Tester"],
