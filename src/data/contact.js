@@ -4,7 +4,7 @@ import { FaXTwitter } from "react-icons/fa6";
 const ContactData = {
   phone: "+62 851 2257 4778",
   email: "kristrianiviktris@gmail.com",
-  address: " North Sumatera , Indonesia",
+  address: " North Sumatera, Indonesia",
   links: [
     {
       url: "https://github.com/viktrislubis/",
